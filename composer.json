@@ -1,0 +1,11 @@
+{
+    "name": "serafim/zephir-example",
+    "type": "library",
+    "description": "Zephir example library",
+    "license": "WTFPL",
+    "extra": {
+        "zephir": [
+            "src/config.json"
+        ]
+    }
+}
